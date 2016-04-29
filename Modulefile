@@ -1,0 +1,10 @@
+name          'danieldreier-puppet_to_yaml'
+version       '0.1.0'
+source        'https://github.com/danieldreier/puppet_to_yaml'
+author        'Daniel Dreier'
+license       'Apache 2.0'
+summary       'Puppet function to serialize puppet hashes to yaml'
+description   ''
+project_page  'https://github.com/danieldreier/puppet_to_yaml'
+
+dependency 'puppetlabs/stdlib'
